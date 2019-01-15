@@ -1,0 +1,2 @@
+# TryBlazorTutorial
+MicrosoftのBlazorのTutorialを試すためのリポジトリ
